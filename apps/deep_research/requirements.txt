@@ -1,0 +1,5 @@
+agents==1.4.0
+gradio==5.39.0
+pydantic==2.11.7
+python-dotenv==1.1.1
+sendgrid==6.12.4
